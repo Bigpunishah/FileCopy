@@ -1,0 +1,7 @@
+-----------------------------------
+
+This project meets all requirements.
+
+I used w3shcools.com to mainly help me throughout this application.
+https://www.w3schools.com/java/java_files_create.asp
+------------------------------------
